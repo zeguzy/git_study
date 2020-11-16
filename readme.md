@@ -1,3 +1,4 @@
-### 我的git学习demo
-关于  git config --local 
-      git config --globle
+Hi, we are learing Git together
+Have  a good time!
+
+We are going to record some git commands here.
